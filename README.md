@@ -1,6 +1,6 @@
 ### Back-end leaning teamplayer and developer in the making 
 <p>Nice to bump into you 👋 </p>
-<p>I'm a career shifter and computer sciences student at <a href='https://www.hive.fi/en/'>Hive Helsinki</a> and University of Helsinki and about to move to the Finnish tech scene as a junior developer. My background is in project management and I am keen on learning how to make teams successfull and how to contribute as a multiplier in a team. 🌱 </p>
+<p>I'm a computer sciences student at <a href='https://www.hive.fi/en/'>Hive Helsinki</a> and University of Helsinki and about to move to the Finnish tech scene as a junior developer. Below is stuff that I've been working with code - in addition I am keen on learning how to become a contributor that can elevate the whole team as a developer. 🌱 </p>
 
 Besides programming I like cooking, dancing and hanging with my friends like playing DnD. 🐉
 <br></br>

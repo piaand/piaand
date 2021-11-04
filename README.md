@@ -3,8 +3,3 @@
 <p>Former business developer turned software engineer. Below is stuff that I've been working with code - all project unless otherwise mentioned have been solo projects i.e. the code produced is my own. In addition to software development, I am keen on learning how to become a contributor that can elevate the whole team as a developer. 🌱 </p>
 
 Besides programming I like cooking, dancing and hanging with my friends like playing DnD. 🐉
-<br></br>
-
-![Piaand's github stats](https://github-readme-stats.vercel.app/api?username=piaand&show_icons=true&theme=vue&hide=stars)
-<br><br>
-<a href="https://www.linkedin.com/in/pia-andersin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
